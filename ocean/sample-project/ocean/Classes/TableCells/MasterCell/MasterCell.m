@@ -21,6 +21,8 @@
     return self;
 }
 
+// Adding a simple comment...
+
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated
 {
     if(selected)
